@@ -1,0 +1,18 @@
+*{
+	padding:0;
+	margin: 0;
+}
+.pagina{
+	background-color:#3761CC;
+	background: linear-gradient(135deg, rgba(55,97,204,1)0%, rgba(162,89,255,1) 100%);
+	min-height: 100vh;
+}
+.foto{
+	border: 2px solid #FFFFFF;
+	border-radius: 100%;
+}
+.titulo{
+	color: #FFFFFF;
+	text-align: center;
+	min-width; 80%;
+}
